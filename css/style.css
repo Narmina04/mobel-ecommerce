@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#dog1 .txtbox{
+    text-align: center;
+}
+#dog1 .txtbox ul{
+    display: flex;
+}
+#dog1 .txtbox ul li{
+    list-style: none;
+}
+
+#dog1 .txtbox h2{
+    margin: 150px 0 20px 0;
+    font-weight: 700;
+    font-family: 'ABeeZee', serif;
+    font-size: 4.3em;
+    font-weight: 700;
+}
+   
